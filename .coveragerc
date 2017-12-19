@@ -1,0 +1,5 @@
+[run]
+include = bookkeepingnc3academy/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
