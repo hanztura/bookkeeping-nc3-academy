@@ -38,7 +38,7 @@ djangocms-table==1.2
 djangocms-text-ckeditor==3.5.1
 easy-thumbnails==2.4.2
 future==0.16.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 Jinja2==2.10
 jinja2-time==0.2.0
